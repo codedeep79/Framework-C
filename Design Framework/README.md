@@ -66,6 +66,9 @@ _VD4: Opencv với Cmake_
 ### Build with EXTRA MODULES
 - In step 2 above. build `opencv` with `cmake`, press **configure**
 - Set up **OPENCV_EXTRA_MODULES_PATH** to proper path(<[opencv_contrib](https://github.com/opencv/opencv_contrib)>/modules) 
+   
+  ![](https://lh3.googleusercontent.com/F7qfChAVqYqpT4e4TWiVlxpZ-JH7rPXFaaqOb9K6xWMa8sma15h1t82rI-E2bwFVgGq1178Ijwg6d1PwOBVbIijOzLtPOGJC9zcf98dehOMpWZn-PyowjaP8nIIioAC4jryhYsAr3lP5A0m_qs2DcHCgS9Hd3rlD6Z-CxuSmMPg8yg9tf_uvZ-uhQ9W5MH4nbEUJE6MdKgJGaR8taEDBqQaG35TPEwmol9DYElWlqnrFZ2BX7EIxiVcW7Tv96-7m9hRIg9jfL8-cKGhG1F_Yble1dLRXyRPQQIWgQQH7-W4JjNJu5f7YFnZB5ZNoceE5mlW_PjRgSi2-lXDjgDc4Pee3XzyULcYvDEaXUiypBSDveKm6n9lwJeQP-UHO9ce4j9C0a7F0CfAAcFnlmEPc9c7u-lAIX3XQVNv7UAiXfEVePp1_FdH2BzLNvbDUBqzPQ1UpegI5WuoUPLrYTBA3-M0VED-V1jgd9jca3rg7rsxJKj6-HxLzT30I2WRo-aoBugLFek6jHNyKcl8uGhxbO4Oi8w0IZ6Fq4n7d4g-DTrO-L0PMyLh4etvKdk_naYb_L3mdGRYFDSLsIg4g10ajJ81IieTJYOwxKqyhI1zlCrBY2EsqgzbL3btn8cYYWmzsPXHlxjq85RHhzOGRYi-UpR8ovVEi-6-usd_G9huR-R0FSnLhzYqoa1TyF9MR8ApjDypgQ64JSX8oHPskVQ=w923-h236-no)
+  
 - Press **configure** again, then **generate**
 
 
