@@ -63,7 +63,9 @@ _VD4: Opencv với Cmake_
   - Add new environment named **OpenCV_DIR**, value as `<opencv>/build`
   - It may need logout to apply setting, you can check it by **echo %PATH%, echo %OpenCV_DIR%**
 
-
-
+### Build with EXTRA MODULES
+- In step 2 above. build `opencv` with `cmake`, press **configure**
+- Set up **OPENCV_EXTRA_MODULES_PATH** to proper path(<[opencv_contrib](https://github.com/opencv/opencv_contrib)>/modules) 
+- Press **configure** again, then **generate**
 
 
