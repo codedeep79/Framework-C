@@ -13,6 +13,8 @@ Lấy 1 thí dụ về project C++ chạy bằng Visual studio: Project cần c�
 
 Còn nếu không có Cmake thì sao? Người chia sẻ file sẽ phải tạo ra các file config ứng với mỗi phiên bản IDE, chỉ riêng Visual Studio đã có nhiều phiên bản: VS 2008, VS 2010, VS 2012, VS 2013, VS 2015, VS 2017. Cộng thêm các ngôn ngữ khác nữa thì số lượng file phải tạo ra quá nhiều. Làm cho dung lượng file chia sẻ tăng lên đáng kể.
 
+Cmake thuận tiện cho tất vả các framework trong C/C++ 
+
 + Cài đặt Cmake trên Windows: Tải và cài đặt [ở đây](https://cmake.org/download/)
 + Cài đặt Cmake trên Linux: 
 
