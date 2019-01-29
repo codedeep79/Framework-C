@@ -28,11 +28,11 @@ Còn nếu không có Cmake thì sao? Người chia sẻ file sẽ phải tạo 
 
   **Verify installed:** `/opt/cmake/bin/cmake -version` 
 
-   ![](https://github.com/BreakthroughCode/Design-Framework-for-Complex-Project-C-plus-plus/blob/master/images/demo.PNG)
+   ![](./images/demo.PNG)
    
    _Một hình ảnh sau khi đã build các file cấu hình cho IDE bằng Cmake_
    
-_VD0: [Hello world với C trong Cmake](https://github.com/BreakthroughCode/Design-Framework-for-Complex-Project-C-plus-plus/blob/master/Example/VD0.md)_
+_VD0: [Hello world với C trong Cmake](./Example/VD0.md)_
 
 
 
@@ -42,8 +42,4 @@ _VD2: Ứng dụng quản lý sinh viên với việc sử dụng các file head
 
 _VD4: Opencv với Cmake_
 
-## Contributor:
 
-_Hau Trung Nguyen_
-
-_haunt.hcm2015@gmail.com - haunt.hcm2015@outlook.com_
